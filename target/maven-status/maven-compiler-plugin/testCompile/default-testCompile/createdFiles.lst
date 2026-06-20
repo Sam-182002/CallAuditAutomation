@@ -1,0 +1,14 @@
+com\callaudit\tests\LocationPropertiesTest.class
+com\callaudit\tests\ExtensionsTest.class
+com\callaudit\tests\RegionsTest.class
+com\callaudit\tests\CallRateTest.class
+com\callaudit\tests\PBXMasterTest.class
+com\callaudit\tests\LoginTest.class
+com\callaudit\tests\BillingClassTest.class
+com\callaudit\tests\LatestCDRTest.class
+com\callaudit\tests\BillingExceptionsTest.class
+com\callaudit\tests\DashboardTest.class
+com\callaudit\tests\UsersTest.class
+com\callaudit\tests\SearchTest.class
+com\callaudit\tests\ReportsTest.class
+com\callaudit\tests\RolesTest.class

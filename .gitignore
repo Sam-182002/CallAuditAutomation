@@ -1,6 +1,6 @@
-target/
-test-output/
-screenshots/
+#target/
+#test-output/
+#screenshots/
 *.class
 .classpath
 .project

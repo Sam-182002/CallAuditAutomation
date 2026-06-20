@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-06-19T13:01:40 IST" name="Default suite" finished-at="2026-06-19T13:01:40 IST" duration-ms="118">
+    <groups>
+    </groups>
+    <test started-at="2026-06-19T13:01:40 IST" name="Default test" finished-at="2026-06-19T13:01:40 IST" duration-ms="118">
+      <class name="com.callaudit.tests.LoginTest">
+        <test-method is-config="true" signature="reportConfig()[pri:0, instance:com.callaudit.tests.LoginTest@58670130]" started-at="2026-06-19T13:01:37 IST" name="reportConfig" finished-at="2026-06-19T13:01:40 IST" duration-ms="3192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportConfig -->
+        <test-method signature="testLogin()[pri:0, instance:com.callaudit.tests.LoginTest@58670130]" started-at="2026-06-19T13:01:40 IST" name="testLogin" finished-at="2026-06-19T13:01:40 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="reportBackup()[pri:0, instance:com.callaudit.tests.LoginTest@58670130]" started-at="2026-06-19T13:01:40 IST" name="reportBackup" finished-at="2026-06-19T13:01:40 IST" duration-ms="549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportBackup -->
+      </class> <!-- com.callaudit.tests.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

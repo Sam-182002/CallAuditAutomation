@@ -1,0 +1,5 @@
+# Created at 2026-06-19T13:00:54.793
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Samprith\TSLprojects\Call Audit\Automation\CallAuditAutomation\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
