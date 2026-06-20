@@ -1,0 +1,92 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="CallAuditSuite" verbose="1">
+
+    <listeners>
+        <listener class-name="com.callaudit.reports.ReportListener"/>
+    </listeners>
+
+    <test name="Login">
+        <classes>
+            <class name="com.callaudit.tests.LoginTest"/>
+        </classes>
+    </test>
+
+    <test name="Dashboard">
+        <classes>
+            <class name="com.callaudit.tests.DashboardTest"/>
+        </classes>
+    </test>
+
+    <test name="Search">
+        <classes>
+            <class name="com.callaudit.tests.SearchTest"/>
+        </classes>
+    </test>
+
+    <test name="Reports">
+        <classes>
+            <class name="com.callaudit.tests.ReportsTest"/>
+        </classes>
+    </test>
+
+    <test name="Extensions">
+        <classes>
+            <class name="com.callaudit.tests.ExtensionsTest"/>
+        </classes>
+    </test>
+
+    <test name="LatestCDR">
+        <classes>
+            <class name="com.callaudit.tests.LatestCDRTest"/>
+        </classes>
+    </test>
+
+    <test name="Users">
+        <classes>
+            <class name="com.callaudit.tests.UsersTest"/>
+        </classes>
+    </test>
+
+    <test name="Roles">
+        <classes>
+            <class name="com.callaudit.tests.RolesTest"/>
+        </classes>
+    </test>
+
+    <test name="Regions">
+        <classes>
+            <class name="com.callaudit.tests.RegionsTest"/>
+        </classes>
+    </test>
+
+    <test name="CallRate">
+        <classes>
+            <class name="com.callaudit.tests.CallRateTest"/>
+        </classes>
+    </test>
+
+    <test name="BillingClass">
+        <classes>
+            <class name="com.callaudit.tests.BillingClassTest"/>
+        </classes>
+    </test>
+
+    <test name="BillingExceptions">
+        <classes>
+            <class name="com.callaudit.tests.BillingExceptionsTest"/>
+        </classes>
+    </test>
+
+    <test name="PBXMaster">
+        <classes>
+            <class name="com.callaudit.tests.PBXMasterTest"/>
+        </classes>
+    </test>
+
+    <test name="LocationProperties">
+        <classes>
+            <class name="com.callaudit.tests.LocationPropertiesTest"/>
+        </classes>
+    </test>
+
+</suite>

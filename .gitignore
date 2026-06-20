@@ -1,0 +1,7 @@
+target/
+test-output/
+screenshots/
+*.class
+.classpath
+.project
+.settings/
